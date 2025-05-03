@@ -122,3 +122,10 @@
 [03May2025 21:58:38.619] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2100722d
 [03May2025 21:58:38.622] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vestcasati1[/127.15.142.205:56767] logged in with entity id 1078 at (100.5, 80.0, -135.5)
 [03May2025 21:58:38.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vestcasati1 joined the game
+[03May2025 22:01:45.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzznoctu has made the advancement [Monster Hunter]
+[03May2025 22:02:03.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vestcasati1 has made the advancement [Monster Hunter]
+[03May2025 22:05:22.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vestcasati1 lost connection: Disconnected
+[03May2025 22:05:22.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vestcasati1 left the game
+[03May2025 22:05:46.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zzznoctu lost connection: Timed out
+[03May2025 22:05:46.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzznoctu left the game
+[03May2025 22:05:46.318] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
