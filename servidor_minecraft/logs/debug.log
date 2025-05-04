@@ -552,3 +552,7 @@ cpw.mods.niofs.union.UnionFileSystem$NoSuchFileException: /assets/minecraft
 [04May2025 15:15:04.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04May2025 15:15:16.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vestcasati1 lost connection: Disconnected
 [04May2025 15:15:16.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vestcasati1 left the game
+[04May2025 15:20:04.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 15:20:04.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 15:25:04.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 15:25:04.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
