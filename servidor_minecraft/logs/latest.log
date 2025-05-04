@@ -1,3 +1,5 @@
 [04May2025 00:58:19.470] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2963b3c1
 [04May2025 00:58:19.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zzznoctu[/127.9.134.98:46429] logged in with entity id 2584 at (70.73894227576251, 67.0, -6.4514748627351794)
 [04May2025 00:58:19.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzznoctu joined the game
+[04May2025 01:01:27.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzznoctu has made the advancement [Stone Age]
+[04May2025 01:10:09.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzznoctu was slain by Zombie

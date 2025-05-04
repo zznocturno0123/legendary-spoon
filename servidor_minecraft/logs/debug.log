@@ -685,3 +685,13 @@ cpw.mods.niofs.union.UnionFileSystem$NoSuchFileException: /assets/minecraft
 [04May2025 00:58:19.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zzznoctu[/127.9.134.98:46429] logged in with entity id 2584 at (70.73894227576251, 67.0, -6.4514748627351794)
 [04May2025 00:58:19.481] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@3ae35f2e into net.minecraft.network.Connection@261b7123
 [04May2025 00:58:19.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzznoctu joined the game
+[04May2025 01:00:20.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 01:00:20.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 01:01:27.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzznoctu has made the advancement [Stone Age]
+[04May2025 01:05:20.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 01:05:20.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 01:10:09.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zzznoctu was slain by Zombie
+[04May2025 01:10:20.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 01:10:20.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04May2025 01:15:20.026] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04May2025 01:15:20.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
